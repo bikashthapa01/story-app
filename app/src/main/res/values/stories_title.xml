@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stories_title">
+        <item>Tomorrow I will be Brave</item>
+        <item>Sleep My Bunny</item>
+        <item>Astronaut Annie</item>
+        <item>THe Night Knights </item>
+        <item>Pillowland</item>
+        <item>Night Night, Jungle</item>
+        <item>Harold and The Purple Crayon</item>
+        <item>Bedtime For Frances</item>
+        <item>Another Story for Kids</item>
+    </string-array>
+</resources>
